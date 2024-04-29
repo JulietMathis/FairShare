@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDnA7Huv35BTzVfUgRPK9toxd9O7V5WRGE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>831508224644</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>swiftjam.FairShare</string>
+	<key>PROJECT_ID</key>
+	<string>fair-share-30fbd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fair-share-30fbd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:831508224644:ios:11cd9f5d1b28c3c6afc0d1</string>
+</dict>
+</plist>
